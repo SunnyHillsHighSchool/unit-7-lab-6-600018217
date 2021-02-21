@@ -12,14 +12,12 @@ public class Word
   //add an instance variable
   private String str;
 
+  //constructor
   public Word(String s)
   {
-    //intialize the list with vowels
-    //vowels =
-    //set str to s
     str = s;
   }
-
+  
   public int getNumVowels()
   {
     //declare and initialize vowelCount = 0;
